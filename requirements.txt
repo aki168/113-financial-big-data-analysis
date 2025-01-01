@@ -60,3 +60,7 @@ traitlets==5.14.3
 typing_extensions==4.12.2
 urllib3==1.26.20
 wcwidth==0.2.13
+dst-tidal --trusted-host nexus.dst.cathayholdings.internal.com.tw -i http://nexus.dst.cathayholdings.internal.com.tw/repository/dst-pypi/simple
+db-dtypes
+google-cloud-bigquery
+google-cloud-bigquery-storage
